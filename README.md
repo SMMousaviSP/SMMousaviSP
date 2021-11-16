@@ -50,3 +50,9 @@ I’m a free software enthusiast. I use GNU/Linux as my operating system, and I 
 <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white" />
 </div>
 
+## &#x1f4c8; GitHub Stats
+<div align="center">
+<img alt="SMMousaviSP's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SMMousaviSP&show_icons=true&theme=radical&line_height=27" />
+&emsp;
+<img alt="SMMousaviSP's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMMousaviSP&langs_count=3&hide=html&theme=radical" />
+</div>
