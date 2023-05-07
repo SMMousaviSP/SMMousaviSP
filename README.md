@@ -55,5 +55,5 @@ I’m a free software enthusiast. I use GNU/Linux as my operating system, and I 
 <div align="center">
 <img alt="SMMousaviSP's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SMMousaviSP&show_icons=true&theme=radical&line_height=27" height="207" />
 &emsp;
-<img alt="SMMousaviSP's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMMousaviSP&langs_count=3&hide=html&theme=radical" height="207" />
+<img alt="SMMousaviSP's Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMMousaviSP&langs_count=3&hide=html,Jupyter%20Notebook&theme=radical" height="207" />
 </div>
